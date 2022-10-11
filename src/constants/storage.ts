@@ -1,0 +1,3 @@
+const FIREBASE_URL_KEY = 'FIREBASE_URL_KEY';
+
+export { FIREBASE_URL_KEY };
