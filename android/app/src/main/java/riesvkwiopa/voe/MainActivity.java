@@ -1,4 +1,4 @@
-package com.settlecity.noegw;
+package riesvkwiopa.voe;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

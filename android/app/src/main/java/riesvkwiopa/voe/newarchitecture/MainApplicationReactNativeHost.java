@@ -1,4 +1,4 @@
-package com.settlecity.noegw.newarchitecture;
+package riesvkwiopa.voe.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.settlecity.noegw.BuildConfig;
-import com.settlecity.noegw.newarchitecture.components.MainComponentsRegistry;
-import com.settlecity.noegw.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import riesvkwiopa.voe.BuildConfig;
+import riesvkwiopa.voe.newarchitecture.components.MainComponentsRegistry;
+import riesvkwiopa.voe.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1084935728789",
-    "project_id": "delta-soft-test-99b27",
-    "storage_bucket": "delta-soft-test-99b27.appspot.com"
+    "project_number": "898754245245",
+    "project_id": "hijjk-1995a",
+    "storage_bucket": "hijjk-1995a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1084935728789:android:fb231e948038a976f5359c",
+        "mobilesdk_app_id": "1:898754245245:android:68d9182372010e1fc9f714",
         "android_client_info": {
-          "package_name": "com.settlecity.noegw"
+          "package_name": "riesvkwiopa.voe"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1084935728789-ip0qvso44urgblcsciq546h524netrks.apps.googleusercontent.com",
+          "client_id": "898754245245-fodockg2osgbhjba7mue143toslqo65g.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD-wFASmf9pQiU98BKJAlV8W3pSP-D-8Z4"
+          "current_key": "AIzaSyDKA3yVWtbbVA9ExpKHkWvdORgNYObFB7M"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1084935728789-ip0qvso44urgblcsciq546h524netrks.apps.googleusercontent.com",
+              "client_id": "898754245245-fodockg2osgbhjba7mue143toslqo65g.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
